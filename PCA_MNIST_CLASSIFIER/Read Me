@@ -1,0 +1,2 @@
+This project uses a naive bayes classifier to map images of numbers from the mnist dataset to their respective labels. Then I needed to use PCA to reduce the dimension of the input and train the reduced input using the
+same classifier. 
